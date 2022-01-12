@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant812
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning and Data structures and algorithms
+- 🌱 I’m currently learning Deep Learning and Data structures
 - 💞️ I’m looking to collaborate on projects based on DL
 - 📫 How to reach me imprashant1212@gmail.com
 
